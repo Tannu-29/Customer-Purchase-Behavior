@@ -14,6 +14,10 @@ their shopping experience, ultimately driving sales and loyalty
 1. Excel
 2. Power Bi
 
+## Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/b21b8da1-f509-4966-aebe-e6a894a4f908)
+
 ## Analysis
 
 we observed the highest customers are from Montana
